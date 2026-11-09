@@ -73,19 +73,7 @@ Cambia el valor de una variable booleana que indica cuál de los dos saludos se 
 | 6 | Presionar Limpiar | Restablece el formulario | Correcto |
 | Reto | Presionar Cambiar saludo | Alterna entre los dos mensajes | Correcto |
 
-## Capturas de pantalla
 
-**Formulario inicial**
-
-![Formulario](capturas/formulario.png)
-
-**Presentación correcta**
-
-![Presentación correcta](capturas/presentacion.png)
-
-**Mensaje de validación**
-
-![Mensaje de validación](capturas/validacion.png)
 
 ## Requisitos y ejecución
 
@@ -96,12 +84,11 @@ Cambia el valor de una variable booleana que indica cuál de los dos saludos se 
 **Pasos para ejecutar**
 
 ```bash
-git clone https://github.com/TU_USUARIO/MiPresentacion.git
+git clone https://github.com/CarlosAriza3103/MiPresentacion.git
 cd MiPresentacion
 dotnet run
 ```
 
-> Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub.
 
 ## Pregunta de reflexión
 
